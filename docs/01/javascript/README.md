@@ -4,5 +4,5 @@
 
 ## 环境搭建
 
-> [!TIP]
-> An alert of type 'tip' using global style 'callout'.
+> [!小贴士]
+> ababab
